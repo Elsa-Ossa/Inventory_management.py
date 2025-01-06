@@ -89,6 +89,11 @@ If you have any questions or suggestions, feel free to reach out:
 - **Email**: business@oyrone.com
 - **GitHub**: [Elsa-Ossa](https://github.com/Elsa-Ossa)
 
+
+
+**Example
+
+
 class Product:
     def __init__(self, product_id, name, quantity, price):
         self.product_id = product_id
